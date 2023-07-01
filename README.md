@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aavishkarpatel
-- 👀 I’m interested in quantum many-body physics with disorder, quantum Monte Carlo methods, GPU for HPC
-- 🌱 I’m currently learning preconditioning techniques for large sparse matrices
+- 👀 I’m interested in many-body quantum physics with disorder, Monte Carlo and ML methods, GPU for HPC
 
 <!---
 aavishkarpatel/aavishkarpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
